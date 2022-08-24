@@ -1,6 +1,6 @@
 {
   "name": "@geovannyC/module2",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "> TODO: description",
   "author": "geovannyC <srmaeson@outlook.com>",
   "homepage": "https://github.com/geovannyC/monorepo#readme",
@@ -23,5 +23,5 @@
   "bugs": {
     "url": "https://github.com/geovannyC/monorepo/issues"
   },
-  "gitHead": "8b6a57a2cb86def20fd744a9a803c47fee2ff8c0"
+  "gitHead": "19f461798fd4742baa04b8a17e30d391c1458719"
 }
