@@ -1,9 +1,9 @@
 {
   "name": "@geovannyC/module1",
   "version": "1.0.6",
-  "description": "module1 test",
+  "description": "",
   "author": "geovannyC <srmaeson@outlook.com>",
-  "homepage": "https://github.com/geovannyC/monorepo#readme",
+  "homepage": "",
   "license": "ISC",
   "main": "lib/module1.js",
   "directories": {
@@ -18,10 +18,6 @@
     "url": "git@github.com:geovannyC/monorepo.git"
   },
   "scripts": {
-    "test": "node ./__tests__/module1.test.js"
-  },
-  "bugs": {
-    "url": "https://github.com/geovannyC/monorepo/issues"
-  },
-  "gitHead": "3f62d252541086537c943db467ca06723262eb69"
-}
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+ }
