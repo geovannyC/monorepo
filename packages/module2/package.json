@@ -1,6 +1,6 @@
 {
   "name": "@geovannyC/module2",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "",
   "author": "geovannyC <srmaeson@outlook.com>",
   "homepage": "",
@@ -20,4 +20,4 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   }
- }
+}
